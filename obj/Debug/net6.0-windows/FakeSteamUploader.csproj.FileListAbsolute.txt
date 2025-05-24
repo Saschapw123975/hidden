@@ -1,0 +1,17 @@
+C:\Users\sasch\Desktop\random\bin\Debug\net6.0-windows\FakeSteamUploader.exe
+C:\Users\sasch\Desktop\random\bin\Debug\net6.0-windows\FakeSteamUploader.deps.json
+C:\Users\sasch\Desktop\random\bin\Debug\net6.0-windows\FakeSteamUploader.runtimeconfig.json
+C:\Users\sasch\Desktop\random\bin\Debug\net6.0-windows\FakeSteamUploader.dll
+C:\Users\sasch\Desktop\random\bin\Debug\net6.0-windows\FakeSteamUploader.pdb
+C:\Users\sasch\Desktop\random\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\sasch\Desktop\random\obj\Debug\net6.0-windows\FakeSteamUploader.csproj.AssemblyReference.cache
+C:\Users\sasch\Desktop\random\obj\Debug\net6.0-windows\FakeSteamUploader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasch\Desktop\random\obj\Debug\net6.0-windows\FakeSteamUploader.AssemblyInfoInputs.cache
+C:\Users\sasch\Desktop\random\obj\Debug\net6.0-windows\FakeSteamUploader.AssemblyInfo.cs
+C:\Users\sasch\Desktop\random\obj\Debug\net6.0-windows\FakeSteamUploader.csproj.CoreCompileInputs.cache
+C:\Users\sasch\Desktop\random\obj\Debug\net6.0-windows\FakeStea.DB499F62.Up2Date
+C:\Users\sasch\Desktop\random\obj\Debug\net6.0-windows\FakeSteamUploader.dll
+C:\Users\sasch\Desktop\random\obj\Debug\net6.0-windows\refint\FakeSteamUploader.dll
+C:\Users\sasch\Desktop\random\obj\Debug\net6.0-windows\FakeSteamUploader.pdb
+C:\Users\sasch\Desktop\random\obj\Debug\net6.0-windows\FakeSteamUploader.genruntimeconfig.cache
+C:\Users\sasch\Desktop\random\obj\Debug\net6.0-windows\ref\FakeSteamUploader.dll

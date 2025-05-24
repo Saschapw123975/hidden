@@ -1,0 +1,42 @@
+C:\Users\sasch\Desktop\random\bin\Release\net6.0-windows\FileManager.exe
+C:\Users\sasch\Desktop\random\bin\Release\net6.0-windows\FileManager.deps.json
+C:\Users\sasch\Desktop\random\bin\Release\net6.0-windows\FileManager.runtimeconfig.json
+C:\Users\sasch\Desktop\random\bin\Release\net6.0-windows\FileManager.dll
+C:\Users\sasch\Desktop\random\bin\Release\net6.0-windows\FileManager.pdb
+C:\Users\sasch\Desktop\random\obj\Release\net6.0-windows\FileManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasch\Desktop\random\obj\Release\net6.0-windows\FileManager.AssemblyInfoInputs.cache
+C:\Users\sasch\Desktop\random\obj\Release\net6.0-windows\FileManager.AssemblyInfo.cs
+C:\Users\sasch\Desktop\random\obj\Release\net6.0-windows\FileManager.csproj.CoreCompileInputs.cache
+C:\Users\sasch\Desktop\random\obj\Release\net6.0-windows\FileManager.dll
+C:\Users\sasch\Desktop\random\obj\Release\net6.0-windows\refint\FileManager.dll
+C:\Users\sasch\Desktop\random\obj\Release\net6.0-windows\FileManager.pdb
+C:\Users\sasch\Desktop\random\obj\Release\net6.0-windows\FileManager.genruntimeconfig.cache
+C:\Users\sasch\Desktop\random\obj\Release\net6.0-windows\ref\FileManager.dll
+C:\Users\sasch\Desktop\python files\random\bin\Release\net6.0-windows\FileManager.exe
+C:\Users\sasch\Desktop\python files\random\bin\Release\net6.0-windows\FileManager.deps.json
+C:\Users\sasch\Desktop\python files\random\bin\Release\net6.0-windows\FileManager.runtimeconfig.json
+C:\Users\sasch\Desktop\python files\random\bin\Release\net6.0-windows\FileManager.dll
+C:\Users\sasch\Desktop\python files\random\bin\Release\net6.0-windows\FileManager.pdb
+C:\Users\sasch\Desktop\python files\random\obj\Release\net6.0-windows\FileManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasch\Desktop\python files\random\obj\Release\net6.0-windows\FileManager.AssemblyInfoInputs.cache
+C:\Users\sasch\Desktop\python files\random\obj\Release\net6.0-windows\FileManager.AssemblyInfo.cs
+C:\Users\sasch\Desktop\python files\random\obj\Release\net6.0-windows\FileManager.csproj.CoreCompileInputs.cache
+C:\Users\sasch\Desktop\python files\random\obj\Release\net6.0-windows\FileManager.dll
+C:\Users\sasch\Desktop\python files\random\obj\Release\net6.0-windows\refint\FileManager.dll
+C:\Users\sasch\Desktop\python files\random\obj\Release\net6.0-windows\FileManager.pdb
+C:\Users\sasch\Desktop\python files\random\obj\Release\net6.0-windows\FileManager.genruntimeconfig.cache
+C:\Users\sasch\Desktop\python files\random\obj\Release\net6.0-windows\ref\FileManager.dll
+C:\Users\sasch\Desktop\python files\bin\Release\net6.0-windows\FileManager.exe
+C:\Users\sasch\Desktop\python files\bin\Release\net6.0-windows\FileManager.deps.json
+C:\Users\sasch\Desktop\python files\bin\Release\net6.0-windows\FileManager.runtimeconfig.json
+C:\Users\sasch\Desktop\python files\bin\Release\net6.0-windows\FileManager.dll
+C:\Users\sasch\Desktop\python files\bin\Release\net6.0-windows\FileManager.pdb
+C:\Users\sasch\Desktop\python files\obj\Release\net6.0-windows\FileManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasch\Desktop\python files\obj\Release\net6.0-windows\FileManager.AssemblyInfoInputs.cache
+C:\Users\sasch\Desktop\python files\obj\Release\net6.0-windows\FileManager.AssemblyInfo.cs
+C:\Users\sasch\Desktop\python files\obj\Release\net6.0-windows\FileManager.csproj.CoreCompileInputs.cache
+C:\Users\sasch\Desktop\python files\obj\Release\net6.0-windows\FileManager.dll
+C:\Users\sasch\Desktop\python files\obj\Release\net6.0-windows\refint\FileManager.dll
+C:\Users\sasch\Desktop\python files\obj\Release\net6.0-windows\FileManager.pdb
+C:\Users\sasch\Desktop\python files\obj\Release\net6.0-windows\FileManager.genruntimeconfig.cache
+C:\Users\sasch\Desktop\python files\obj\Release\net6.0-windows\ref\FileManager.dll
